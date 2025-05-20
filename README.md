@@ -50,8 +50,8 @@ I'm a passionate full stack developer from Andhra Pradesh, India.
 
 ### 📊 Sahithi's GitHub Stats
 
-- ⭐ **Total Stars Earned:** `2`  
-- 🔄 **Total Commits:** `18`  
+- ⭐ **Total Stars Earned:** `1`  
+- 🔄 **Total Commits:** `23`  
 - 📦 **Total Pull Requests:** `0`  
 - 🐛 **Total Issues:** `0`  
 - 🌍 **Open Source Contributions (Last Year):** `1` repository  
