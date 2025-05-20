@@ -72,7 +72,7 @@ I'm a passionate full stack developer from Andhra Pradesh, India.
   </a>
 </div>
 
----
+
 
 
 
