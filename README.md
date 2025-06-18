@@ -19,7 +19,7 @@
 
 I'm a passionate full stack developer from Andhra Pradesh, India.
 
-- 🔭 I’m currently working on: Portfolio Web App, Grocery Management System  
+- 🔭 I’m currently working on: E-commerce Website, Grocery Delivery App  
 - 🌱 I’m currently learning: Flask, APIs  
 - 💬 Ask me about: ReactJS, Node.js, MongoDB  
 - 📫 How to reach me: pratyusha6212@gmail.com  
